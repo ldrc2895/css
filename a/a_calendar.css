@@ -1,0 +1,14 @@
+.scCalendarPage { background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scCalendarBorder { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse }
+.scCalendarToolbar { background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scCalendarInput { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #cccccc; border-style: solid; border-width: 1px; text-decoration: none }
+.scCalendarTabela { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse }
+.scCalendarWeekday { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; text-decoration: none }
+.scCalendarMonthday { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #000000; border-style: solid; border-width: 1px; color: #000000; text-decoration: none }
+.scCalendarMonthdayFont { color: #000000; text-decoration: none }
+.scCalendarSelectedday { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; text-decoration: none }
+.ui-datepicker-trigger { vertical-align: middle; margin: 2px }
+.ui-datepicker { display: none }
+.ui-datepicker .ui-datepicker-header { background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 0 }
+.ui-datepicker .ui-state-default { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; text-decoration: none }
+.ui-datepicker .ui-state-active { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; text-decoration: none }

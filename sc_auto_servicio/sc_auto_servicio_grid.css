@@ -1,0 +1,64 @@
+.scGridPage { background-color: #Fff; background-image: none; background-repeat: repeat-x; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; margin: 20px 0 20px 0; font-size: 14px }
+.scGridBorder { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: solid; border-width: 1px; -moz-border-radius: 20px; -webkit-border-radius: 20px; border-radius: 20px }
+.scGridPageLink { color: #000000; text-decoration: underline }
+.scGridToolbarNav { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 12px; text-decoration: none; border-color: #ccc; border-style: solid; border-width: 1px; padding: 2px 4px 2px 4px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px }
+.scGridToolbarNavOpen { background-color: #D2D2D2; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 12px; text-decoration: none; border-color: #D2D2D2; border-style: solid; border-width: 1px 1px 1px 1px; padding: 2px 4px 2px 4px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px }
+.scGridToolbar { background-color: #f5f5f5; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 14px; text-decoration: none; border-color: 5DA0A2; border-style: solid; border-width: 2px; padding: 5px 10px 5px 10px; -moz-border-radius: 20px; -webkit-border-radius: 20px; border-radius: 20px }
+.scGridToolbarPadding { padding: 5px 10px 5px 10px }
+.css_toolbar_obj { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #CCCCCC; border-style: solid; border-width: 1px; color: #555; font-family: Arial, sans-serif; font-size: 14px; padding: 2px 4px; text-decoration: none; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px }
+.css_toolbar_objWm { color: #D4CACA }
+.scGridHeader { background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: none; border-width: 3px; -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
+.scGridHeaderFont { color: #ffffff; font-family: Arial, sans-serif; font-size: 14px; padding: 6px 0 6px 0; text-decoration: none }
+.scGridFooter { background-color: #f5f5f5; background-image: none; opacity: 1; filter: alpha(opacity=100); -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
+.scGridFooterFont { color: #999999; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; text-decoration: none }
+.scGridObjectOdd { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #CCCCCC; border-style: solid; border-width: 1px; color: #555; font-family: Arial, sans-serif; font-size: 14px; text-decoration: none; -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
+.scGridBlockBg { background-color: #F4F2F3; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-width: 1px; border-style: solid; -moz-border-radius: 20px; -webkit-border-radius: 20px; border-radius: 20px; border-top-color: #F4F2F3; border-bottom-color: #F4F2F3; border-left-color: #F4F2F3 }
+.scGridBlockLineBg { background-color: #F4F2F3; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #F4F2F3; border-width: 1px; border-style: solid; -moz-border-radius: 20px; -webkit-border-radius: 20px; border-radius: 20px }
+.scGridBlockSpaceBg { background-color: #F4F2F3; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-width: 1px; border-style: solid; -moz-border-radius: 20px; -webkit-border-radius: 20px; border-radius: 20px; border-left-color: #F4F2F3; border-right-color: #F4F2F3 }
+.scGridBlock { background-color: #F4F2F3; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-width: 1px; border-style: solid; color: #000; font-family: Arial, sans-serif; font-size: 14px; padding: 2px 4px; text-decoration: none; -moz-border-radius: 20px; -webkit-border-radius: 20px; border-radius: 20px }
+.scGridBlockFont { color: #000; font-family: Arial, sans-serif; font-size: 14px; text-decoration: none }
+.scGridBlockLink { color: #000; text-decoration: overline }
+.scGridBlockAlign { color: #000; font-family: Arial, sans-serif; font-size: 14px; text-decoration: none }
+.scGridTotal { background-color: #D2D2D2; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #5DA0A2; border-style: solid; border-width: 1px }
+.scGridTotalFont { color: #000000; font-family: Arial, sans-serif; font-size: 14px; padding: 3px; text-decoration: none }
+.scGridSubtotal { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: solid; border-width: 1px 0 }
+.scGridSubtotalFont { color: #000; font-family: Arial, sans-serif; font-size: 14px; padding: 2px 4px; text-decoration: none }
+.scGridFieldEven { background-color: #f8f8f8; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scGridFieldEvenFont { color: #000; font-family: Arial, sans-serif; font-size: 14px; padding: 3px 4px; text-decoration: none; border-color: #D2D2D2; border-style: solid; border-width: 1px 0 }
+.scGridFieldEvenVert { background-color: #f8f8f8; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: solid; border-width: 1px 0; color: #000; font-family: Arial, sans-serif; font-size: 14px; padding: 3px 4px; text-decoration: none }
+.scGridFieldEvenLink { color: #384D76; text-decoration: none }
+.scGridFieldOdd { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scGridFieldOddFont { color: #000; font-family: Arial, sans-serif; font-size: 14px; padding: 3px 4px; text-decoration: none; border-color: #D2D2D2; border-style: solid; border-width: 1px 0 }
+.scGridFieldOddVert { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: solid; border-width: 1px 0; color: #000; font-family: Arial, sans-serif; font-size: 14px; padding: 3px 4px; text-decoration: none }
+.scGridFieldOddLink { color: #384D76; text-decoration: none }
+.scGridFieldClick { background-color: #DBD9D9; border-color: #D2D2D2; border-style: solid; border-width: 1px 0 }
+.scGridFieldOver { background-color: #E0E0E0 }
+.scGridLabel { background-color: #D2D2D2; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scGridLabelVert { background-color: #D2D2D2; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #5DA0A2; border-style: solid; border-width: 1px; color: #000000; font-family: Arial, sans-serif; font-size: 14px; padding: 2px 4px; text-decoration: none }
+.scGridLabelFont { color: #000000; font-family: Arial, sans-serif; font-size: 14px; padding: 2px 4px; text-decoration: none; border-color: #5DA0A2; border-style: solid; border-width: 1px }
+.scGridLabelLink { color: #fff; font-family: Arial, sans-serif; font-size: 14px; text-decoration: none }
+.scGridTabela { background-color: #f5f5f5; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #5DA0A2; border-width: 1px; -moz-border-radius: 20px; -webkit-border-radius: 20px; border-radius: 20px }
+.TB_overlayBG { background-color: #6e6e6e }
+#TB_window { border-color: #A1AFC1; border-style: solid; border-width: 1px 1px 2px 1px }
+.scBtnPassField { margin: 5px 2px }
+.scGridRefinedSearchMoldura { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: solid; border-width: 1px; border-collapse: collapse; padding: 0; -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
+.scGridRefinedSearchMolduraResult { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D0D0D0; border-width: 0; border-collapse: collapse; padding: 0; -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
+.scGridRefinedSearchToolbar { background-color: #f5f5f5; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 14px; text-decoration: none; border-style: solid; border-width: 2px; padding: 10px; -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
+.scGridRefinedSearchLabel { background-color: #969696; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D0D0D0; border-style: solid; border-width: 0 0 1px 0; color: #fff; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; padding: 2px 4px; text-decoration: none }
+.scGridRefinedSearchCampo { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #F4F4F4; border-style: solid; border-width: 0 0 1px 0; padding: 5px 15px }
+.scGridRefinedSearchCampoFont { color: #000000; font-family: Arial, sans-serif; font-size: 14px; text-decoration: underline }
+.scGridRefinedSearchCampo:hover { background-color: #E3E3E3; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #C8C8C8; border-style: solid; border-width: 0 0 1px 0; padding: 5px 15px }
+.scGridRefinedSearchCampoFont:hover { color: #000000; font-family: Arial, sans-serif; font-size: 14px; text-decoration: underline }
+.scGridRefinedSearchCampo:active { background-color: #E3E3E3; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #C8C8C8; border-style: solid; border-width: 0 0 1px 0; padding: 5px 15px }
+.scGridRefinedSearchCampoFont:active { color: #000000; font-family: Arial, sans-serif; font-size: 14px; text-decoration: underline }
+.scGridRefinedSearchVejaMais { background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 10px }
+.scGridRefinedSearchVejaMaisFont { color: #000000; font-family: Arial, sans-serif; font-size: 14px; text-decoration: none }
+.ui-slider { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; margin: 10px auto; -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
+.ui-slider-range { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
+.ui-state-default { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
+.ui-state-hover { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
+.ui-state-active { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
+.scGridRefinedSearchRangeValues { background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 4px; color: #000000; font-family: Arial, sans-serif; font-size: 14px; text-decoration: none }
+.scGridRefinedSearchQuantidade { background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: solid; border-width: 0; padding: 0 2px; color: #000000; font-family: Arial, sans-serif; font-size: 14px; text-decoration: none }
+.scGridRefinedSearchQuantidadeQTL { text-align: right }
+.scAjaxDiv { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 14px; text-shadow: 20px; text-decoration: none; border-collapse: collapse; border-style: none; -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
