@@ -1,3 +1,0 @@
-.context-menu-list { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: solid; border-width: 1px; -moz-border-radius: 100px 100px 100px 100px; -webkit-border-radius: 100px 100px 100px 100px; border-radius: 100px 100px 100px 100px }
-.context-menu-item { background-image: none; opacity: ; filter: alpha(opacity=); font-family: Arial, sans-serif; font-size: 14px; color: #000000; padding: 4px 15px; text-decoration: none; font-style: normal }
-.context-menu-item.hover { background-color: #969696; background-image: none; opacity: ; filter: alpha(opacity=); font-family: Arial, sans-serif; font-size: 14px; color: #000000; text-decoration: none }
