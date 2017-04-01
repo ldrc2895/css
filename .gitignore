@@ -46,7 +46,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-css/*
-!css/autoservicio_verde/*
-!css/autoservicio_verde_v2/*
-!css/_menuTheme/sys_Scriptcase_as_menu_vertical_principal_vert_LTR.css
+*
+!autoservicio_verde/*
+!autoservicio_verde_v2/*
+!_menuTheme/sys_Scriptcase_as_menu_vertical_principal_vert_LTR.css
