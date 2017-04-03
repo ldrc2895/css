@@ -1,8 +1,8 @@
 .scFormPage { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 13px; margin: 20px 0 20px 0; text-decoration: none }
-.scFormBorder { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 30px 30px 30px 30px; margin: css_form_moldura_margin; border-color: #00c4c7; border-style: solid; border-width: 1px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px }
+.scFormBorder {background-color: #fff;background-image: none;opacity: 1;filter: alpha(opacity=100);padding: 30px 30px 30px 30px;margin: css_form_moldura_margin;border-color: #212c3a;border-style: solid;border-width: 1px;-moz-border-radius: 4px;-webkit-border-radius: 4px;border-radius: 4px;}
 .scFormPageText { color: #000000; font-family: Arial, sans-serif; font-size: 13px; text-decoration: none }
 .scFormHeader { background-image: none; opacity: 1; filter: alpha(opacity=100) }
-.scFormHeaderFont { color: #212c3a; font-family: Tahoma, Arial, sans-serif; font-size: 30px; font-weight: bold; text-decoration: none; vertical-align: middle }
+.scFormHeaderFont {color: #212c3a;font-family: Trebuchet MS,Helvetica,Geneva;font-size: 30px;font-weight: bold;text-decoration: none;vertical-align: middle;text-transform: uppercase;}
 .scFormFooter { background-image: none; opacity: 1; filter: alpha(opacity=100) }
 .scFormFooterFont { color: #fff; font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; text-decoration: none }
 .scFormToolbarNav { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333; font-family: Arial, sans-serif; font-size: 13px; text-shadow: 12px; text-decoration: none; padding: 4px 6px 4px 6px }
@@ -14,7 +14,7 @@
 .scFormTable { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #00c4c7; border-style: none; border-width: 1px 1px 1px 1px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px }
 .scFormTableTd { padding: 30px 30px 30px 30px }
 .scFormLabelLink { color: #FFFFFF; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; font-weight: bold; text-decoration: none; vertical-align: middle }
-.scFormLabelOdd { background-color: #; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #990000; border-width: 0; color: #000; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; font-weight: bold; padding: 6px 0 10px 20px; text-decoration: none; vertical-align: middle }
+.scFormLabelOdd {background-color: #;background-image: none;opacity: 1;filter: alpha(opacity=100);border-color: #990000;border-width: 0;color: #000;font-family: Trebuchet MS, Arial, sans-serif;font-size: 13px;font-weight: bold;padding: 6px 0 10px;text-decoration: none;vertical-align: middle;text-transform: uppercase;}
 .scFormLabelOddMult { background-image: none; border-color: #34495E; border-style: solid; border-width: 1px; color: #000; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; font-weight: bold; padding: 6px 0 10px 20px; text-decoration: none; vertical-align: middle }
 .scFormLabelOddFormat { color: #000; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; font-weight: bold; text-decoration: none }
 .scFormLabelOddFormatMult { color: #000; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; font-weight: bold; text-decoration: none }
