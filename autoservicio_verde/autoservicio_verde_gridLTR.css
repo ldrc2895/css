@@ -8,3 +8,4 @@
 .scGridFieldOddVert { text-align: left !important}
 .scGridLabelVert { text-align: left !important}
 .scGridLabelFont {text-align: left !important;text-transform: uppercase;}
+.scGridLabelFont[class*="css"]::before{color: #00c4c7;font-size: 32px;content: '\b7';line-height: 0;vertical-align: middle;}
