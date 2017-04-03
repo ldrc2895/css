@@ -14,7 +14,7 @@
 .scFilterBlockFont { color: #000; font-family: Trebuchet MS,Helvetica,Geneva; font-size: 18px; font-weight: bold; text-decoration: none; vertical-align: middle }
 .scFilterBlockAlign { color: #000; font-family: Trebuchet MS,Helvetica,Geneva; font-size: 18px; font-weight: bold; text-decoration: none }
 .scFilterLabelOdd {background-image: none;opacity: 1;filter: alpha(opacity=100);border-color: #F5F5F5;border-style: solid;border-width: 0 0 1px 0;color: #000;font-family: Trebuchet MS,Helvetica,Geneva;font-size: 13px;font-weight: bold;padding: 6px 8px;text-decoration: none;vertical-align: middle;text-transform: uppercase;}
-.scFilterLabelEven { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #F5F5F5; border-style: solid; border-width: 0 0 1px 0; color: #000; font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; padding: 6px 8px; text-decoration: none; vertical-align: middle }
+.scFilterLabelEven {background-image: none;opacity: 1;filter: alpha(opacity=100);border-color: #F5F5F5;border-style: solid;border-width: 0 0 1px 0;color: #000;font-family: Trebuchet MS,Helvetica,Geneva;font-size: 13px;font-weight: bold;padding: 6px 8px;text-decoration: none;vertical-align: middle;text-transform: uppercase;}
 .scFilterFieldOdd { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #F5F5F5; border-style: solid; border-width: 0 0 1px 0; color: #000; font-family: Arial, sans-serif; font-size: 13px; padding: 4px 4px 4px 10px; text-decoration: none; vertical-align: top }
 .scFilterDataFontOdd { color: #000; font-family: Arial, sans-serif; font-size: 13px; text-decoration: none }
 .scFilterFieldFontOdd { color: #000; font-family: Arial, sans-serif; font-size: 13px; text-decoration: none }
