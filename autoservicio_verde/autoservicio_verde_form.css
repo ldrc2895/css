@@ -55,7 +55,7 @@
 .scFormFieldErrorMessage { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #d54242; font-family: Arial, sans-serif; font-size: 13px; padding: 2px 4px 2px 4px; text-decoration: none; vertical-align: middle }
 .scFormBlock {background-image: none;opacity: 1;filter: alpha(opacity=100);border-color: #D0D0D0;border-style: solid;border-width: 0 0 1px 0;color: #212c3a;font-family: Trebuchet MS, Arial, sans-serif;font-size: 18px;font-weight: bold;padding: 0 0 3px 0;text-decoration: none;vertical-align: middle;}
 .scFormBlockFont::before {    color: #00c4c7;font-size: 32px;content: '\b7\a0';line-height: 0;vertical-align: middle;}
-.scFormBlockFont {color: #212c3a;font-family: Trebuchet MS, Geneva, Helvetica;font-size: 18px;font-weight: bold;text-decoration: none;text-transform: uppercase;line-height: 0px;}
+.scFormBlockFont {color: #212c3a;font-family: Trebuchet MS, Geneva, Helvetica;font-size: 18px;font-weight: bold;text-decoration: none;text-transform: uppercase;/* line-height: 0px; */}
 .scFormBlockAlign { color: #212c3a; font-family: Trebuchet MS, Arial, sans-serif; font-size: 18px; font-weight: bold; text-decoration: none; vertical-align: middle }
 .scFormProcess { color: #000000; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 20px; font-weight: bold; text-decoration: none }
 .scFormProcessFixed { background-color: #fff; border-color: #A1AFC1; border-style: solid; border-width: 1px 1px 2px 1px; height: 26px; padding-top: 13px; position: absolute; text-align: center; width: 350px }
