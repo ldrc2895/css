@@ -1,8 +1,8 @@
-.scFormHeaderFont { text-align: left }
-.scFormLabelOdd { text-align: left; }
-.scFormLabelOddMult { text-align: left; }
+.scFormHeaderFont { text-align: left !important; }
+.scFormLabelOdd { text-align: left !important; }
+.scFormLabelOddMult {text-align: left !important;}
 .scFormDataDragNDrop { text-align: center }
-.scFormErrorTitle { text-align: left }
-.scFormErrorMessage { text-align: left }
-.scFormBlock { text-align: left }
+.scFormErrorTitle { text-align: left !important }
+.scFormErrorMessage { text-align: left !important}
+.scFormBlock { text-align: left! important }
 .scAjaxDiv { text-align: center }
