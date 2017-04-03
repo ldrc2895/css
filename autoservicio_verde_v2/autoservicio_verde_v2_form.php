@@ -1,5 +1,5 @@
 <?php
-$str_button = 'scriptcase8_BlueWood';
+$str_button = 'autoservicio_btns_verde';
 $str_toolbar_separator = 'scriptcase__NM__Lightblue_separador.gif';
 $str_ajax_bg = '#6e6e6e';
 $str_ajax_border_c = '#8DA0C8 ';
