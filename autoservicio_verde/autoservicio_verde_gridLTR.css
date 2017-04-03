@@ -7,4 +7,4 @@
 .scGridFieldOddFont { text-align: left !important}
 .scGridFieldOddVert { text-align: left !important}
 .scGridLabelVert { text-align: left !important}
-.scGridLabelFont { text-align: left !important}
+.scGridLabelFont {text-align: left !important;text-transform: uppercase;}
