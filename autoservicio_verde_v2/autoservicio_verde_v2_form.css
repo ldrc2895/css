@@ -15,7 +15,7 @@
 .scFormTableTd { padding: 30px 30px 30px 30px }
 .scFormLabelLink { color: #FFFFFF; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; font-weight: bold; text-decoration: none; vertical-align: middle }
 .scFormLabelOdd { background-color: #; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #990000; border-width: 0; color: #000; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; font-weight: bold; padding: 6px 0 10px 20px; text-decoration: none; vertical-align: middle }
-.scFormLabelOddMult[id]::before {    color: #00c4c7;font-size: 32px;content: '\b7\a0';line-height: 0;vertical-align: middle;}
+.scFormLabelOddMult[id]::before {    color: #00c4c7;font-size: 32px;content: '\b7';line-height: 0;vertical-align: middle;}
 .scFormLabelOddMult {background-image: none;border-bottom-color: #D0D0D0;border-bottom-style: solid;border-width: 1px;color: #000;font-family: Trebuchet MS, Geneva, Helvetica;font-size: 13px;font-weight: bold;padding: 10px 20px 6px 0px;text-decoration: none;vertical-align: middle;/* border-collapse: collapse; */text-transform: uppercase;}
 .scFormLabelOddFormat { color: #000; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; font-weight: bold; text-decoration: none }
 .scFormLabelOddFormatMult { color: #000; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; font-weight: bold; text-decoration: none }

@@ -2,4 +2,4 @@
 .scGridHeaderFont { text-align: left }
 .scGridLabelVert { text-align: left }
 .scGridLabelFont {text-align: left;text-transform: uppercase;}
-.scGridLabelFont[class*="css"]::before{  color: #00c4c7;font-size: 32px;content: '\b7\a0';line-height: 0;vertical-align: middle;}
+.scGridLabelFont[class*="css"]::before{color: #00c4c7;font-size: 32px;content: '\b7';line-height: 0;vertical-align: middle;}
