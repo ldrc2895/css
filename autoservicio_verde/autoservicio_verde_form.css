@@ -17,7 +17,7 @@
 .scFormLabelOdd {background-image: none;opacity: 1;filter: alpha(opacity=100);border-color: #990000;border-width: 0;color: #000;font-family: Trebuchet MS, Helvetica, Geneva;font-size: 13px;font-weight: bold;padding: 10px 10px 10px 20px;text-decoration: none;vertical-align: middle;text-transform: uppercase;}
 .scFormLabelOddMult[id]::before {    color: #00c4c7;font-size: 32px;content: '\b7';line-height: 0;vertical-align: middle;}
 .scFormLabelOddMult {background-image: none;border-bottom-color: #d0d0d0;border-bottom-style: solid;border-bottom-width: 1px;color: #000;font-size: 13px;font-weight: bold;font-family: Trebuchet MS, Helvetica, Geneva;padding: 8px 10px;text-decoration: none;vertical-align: middle;text-transform: uppercase;}
-.scFormLabelOddFormat {color: #000;font-family: Trebuchet MS, Geneva, HelvÃÆÃâÃâ Ã¢â¬â¢ÃÆÃ¢â¬Â ÃÂ¢Ã¢âÂ¬Ã¢âÂ¢ÃÆÃâÃÂ¢Ã¢âÂ¬ÃÂ¡ÃÆÃ¢â¬Å¡ÃâÃÂ©tica;font-size: 13px;font-weight: bold;text-transform: uppercase;text-decoration: none;}
+.scFormLabelOddFormat {color: #000;font-family: Trebuchet MS, Geneva, Helvetica;font-size: 13px;font-weight: bold;text-transform: uppercase;text-decoration: none;}
 .scFormLabelOddFormatMult { color: #000; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; font-weight: bold; text-decoration: none }
 .scFormRequiredOdd { color: #00c4c7; font-family: Trebuchet MS, Arial, sans-serif; font-size: 12px; font-weight: bold }
 .scFormRequiredOddMult {color: #00c4c7;font-family: Arial;font-size: 12px;}
