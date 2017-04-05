@@ -29,7 +29,7 @@
 .scFormObjectFocusOddMult {background-color: #fff;background-image: none;opacity: 1;filter: alpha(opacity=100);border-color: #34495E;border-style: solid;border-width: 0 0 1px 0;color: #000;font-family: sans-serif,arial,geneva;font-size: 13px;padding: 6px 10px;text-decoration: none;vertical-align: middle;}
 .scFormDataOdd { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; padding: 6px 4px; text-decoration: none }
 .scFormDataOddMult {background-color: #FFFFFF;background-image: none;opacity: 1;filter: alpha(opacity=100);border-color: #D0D0D0;border-width: 1px 1px 1px 1px;border-bottom-style: solid;color: #000;font-family: Trebuchet MS, Arial, sans-serif;font-size: 13px;padding: 6px 4px;text-decoration: none;}
-.scFormDataFontOdd { color: #000000; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; text-decoration: none }
+.scFormDataFontOdd {color: #000000;font-family: sans-serif,arial,geneva;font-size: 13px;text-decoration: none;}
 .scFormDataFontOddMult { color: #000; font-family: Trebuchet MS, Arial, sans-serif; font-size: 13px; text-decoration: none }
 .scFormLinkOdd { color: #000000; text-decoration: underline }
 .scFormLinkOddMult { color: #333333; text-decoration: underline }
