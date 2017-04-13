@@ -34,7 +34,7 @@
 .scGridFieldClick { background-color: #DFECFF; border-color: #d0d0d0; border-style: solid; border-width: 0 0 1px 0 }
 .scGridFieldOver { background-color: #DFECFF }
 .scGridLabel { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100) }
-.scGridLabelVert { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #d0d0d0; border-style: solid; border-width: 0 0 1px 0; color: #000; font-family: Trebuchet MS, Geneva, Helvetica; font-size: 13px; font-weight: bold; padding: 10px 8px; text-decoration: none; vertical-align: middle }
+.scGridLabelVert {background-color: #fff;background-image: none;opacity: 1;filter: alpha(opacity=100);border-color: #d0d0d0;border-style: solid;border-width: 0 0 1px 0;color: #000;font-family: sans-serif,Arial,Geneva;font-size: 13px;font-weight: bold;padding: 10px 8px;text-decoration: none;vertical-align: middle;}
 .scGridLabelFont {color: #000;font-family: Trebuchet MS, Geneva, Helvetica;font-size: 13px;font-weight: bold;padding: 10px 10px;text-decoration: none;vertical-align: middle;border-color: #d0d0d0;border-style: solid;border-width: 0 0 1px 0;}
 .scGridLabelLink { color: #000; font-family: Trebuchet MS, Geneva, Helvetica; font-size: 13px; font-weight: bold; text-decoration: none; vertical-align: middle }
 .scGridTabela { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #fff; border-style: none; border-width: 0; padding: 10px 20px }
