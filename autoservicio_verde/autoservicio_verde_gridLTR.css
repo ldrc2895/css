@@ -4,7 +4,7 @@
 .scGridBlock { text-align: left !important}
 .scGridFieldEvenFont { text-align: left }
 .scGridFieldEvenVert { text-align: left }
-.scGridFieldOddFont { text-align: left !important}
+.scGridFieldOddFont {text-align: left;}
 .scGridFieldOddVert { text-align: left !important}
 .scGridLabelVert { text-align: left !important}
 .scGridLabelFont {text-align: left !important;text-transform: uppercase;}
