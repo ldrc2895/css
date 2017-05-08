@@ -1,4 +1,4 @@
-.scContainerPage {background-color: #fff;background-image: none;background-repeat: repeat-x;/* opacity: 1; */filter: alpha(opacity=100);margin: 20px 30px 20px 30px;}
+.scContainerPage {background-color: #fff;background-image: none;background-repeat: repeat-x;/* opacity: 1; */filter: alpha(opacity=100);margin: 20px 30px 20px 30px;/* border-color: #00c4c7; *//* border-style: solid; *//* border-width: 1px; */}
 .scContainerHeader {background-color: #fff;background-image: none;opacity: 1;filter: alpha(opacity=100);border-style: none;margin-bottom: 20px;}
 .scContainerHeaderFont {color: #212c3a;font-family: Trebuchet MS, Geneva, Helvetica;font-size: 30px;font-weight: bold;text-decoration: none;vertical-align: middle;text-transform: uppercase;}
 .scContainerFooter { background-color: #f5f5f5; background-image: none; opacity: 1; filter: alpha(opacity=100) }
@@ -10,3 +10,4 @@
 .widget-head a.remove { background-image: none; background-repeat: no-repeat; background-position: -24px }
 .widget-head a.collapse { background-image: none; background-repeat: no-repeat; background-position: -52px }
 .column{border-style:solid;border-color:#00c4c7;border-radius:4px;border-width:1px;}
+.sc-iframe-widget{border-color: #00c4c7;border-width: 1px;border-style: solid;}
