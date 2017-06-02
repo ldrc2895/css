@@ -1,5 +1,5 @@
 <?php
-$str_button = 'scriptcase8_BlueWood';
+$str_button = 'autoservicio_btns_verde';
 $str_toolbar_separator = 'scriptcase__NM__Lightblue_separador.gif';
 $str_cal_ico_back = 'scriptcase__NM__img_move_left.gif';
 $str_cal_ico_for = 'scriptcase__NM__img_move_right.gif';
