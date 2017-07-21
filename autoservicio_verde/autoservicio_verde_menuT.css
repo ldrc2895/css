@@ -15,9 +15,9 @@ li>.scMenuTItem::before {color: #00c4c7;font-size: 32px;content: '\b7\a0';line-h
 .scMenuTSubItemDisabled { color: #C0C0C0 }
 .jstree a.scMenuTItem:visited { color: #333 }
 
-.jstree-default .jstree-hovered, .jstree-default .jstree-wholerow-hovered { background-image: none; opacity: 1; filter: alpha(opacity=100); text-decoration: none ;color:#00c4c7; }
+.jstree-default .jstree-hovered, .jstree-default .jstree-wholerow-hovered { background-image: none; opacity: 1; filter: alpha(opacity=100); text-decoration: none  }
 .jstree-default .jstree-hovered span, .jstree-default .jstree-hovered a, .jstree-default .jstree-wholerow-hovered span, .jstree-default .jstree-wholerow-hovered a { text-decoration: none;  }
-.jstree-default .jstree-clicked, .jstree-default .jstree-wholerow-clicked { background-image: none; opacity: 1; filter: alpha(opacity=100); text-decoration: none;color:#00c4c7; }
+.jstree-default .jstree-clicked, .jstree-default .jstree-wholerow-clicked { background-image: none; opacity: 1; filter: alpha(opacity=100); text-decoration: none }
 .jstree-default .jstree-clicked span, .jstree-default .jstree-clicked a, .jstree-default .jstree-wholerow-clicked span, .jstree-default .jstree-wholerow-clicked a { text-decoration: none }
 .scMenuBreadcrumbLine { background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 4px;px }
 .scMenuBreadcrumbLine a { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #575757; font-family: Arial, sans-serif; font-size: 12px; padding: 2px; text-decoration: none }
