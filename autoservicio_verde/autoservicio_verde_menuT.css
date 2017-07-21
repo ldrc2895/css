@@ -1,9 +1,10 @@
-.scMenuTPage {margin: 0;background-color: #fff;background-image: none;border-style: solid;border-width: 1px;border-color: #00c4c7;border-radius: 4px;}
+.scMenuTPage {margin-right: 20px!important;background-color: #fff;background-image: none;border-style: solid;border-width: 1px;border-color: #00c4c7;border-radius: 4px;}
 .scMenuTTable {/* background-color: #f8f8f8; */background-image: none;opacity: 1;filter: alpha(opacity=100);border-style: solid;border-width: 0;border-color: #d0d0d0;}
 .scMenuTTableM { margin: 10px 2px 10px 2px }
 .scMenuIframe { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: solid; border-width: 0; border-color: #FFFFFF; border-collapse: collapse; width: 100%; height: 100% }
-.scMenuTHeader {background-image: none;opacity: 1;filter: alpha(opacity=100);}
-.scMenuTHeaderFont {color: #212c3a;font-family: Trebuchet MS, Geneva,Helvetica;font-size: 30px;font-weight: bold;text-decoration: none;vertical-align: middle;text-transform: uppercase;}
+.scMenuTHeader {background-image: none;opacity: 1;filter: alpha(opacity=100);margin-right: 10%;}
+.scMenuTHeader img {display:none}
+.scMenuTHeaderFont {color: #212c3a;font-family: Trebuchet MS, Geneva,Helvetica;font-size: 30px;font-weight: bold;text-decoration: none;vertical-align: middle;text-transform: uppercase;margin-right: 20px !important;}
 .scMenuTFooter { background-color: #f5f5f5; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse }
 .scMenuTFooterFont { color: #999999; font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; text-decoration: none }
 .scMenuTItems { font-family: Arial, sans-serif; font-size: 13px; color: #333; background-image: none; opacity: 1; filter: alpha(opacity=100); font-style: normal; text-decoration: none; white-space: nowrap }
