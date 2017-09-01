@@ -17,3 +17,4 @@
 .scMenuHSubItemOver { background-color: #F3F7FB; font-family: Arial, sans-serif; font-size: 13px; color: #000000; padding: 3px 10px 3px 3px; text-decoration: none; font-style: normal }
 .scMenuBreadcrumbLine { background-image: none; opacity: 1; filter: alpha(opacity=100) }
 .scMenuBreadcrumbLine a { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #575757; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+#Iframe_control{padding-right: 20px}
