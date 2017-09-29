@@ -12,7 +12,7 @@
 .scGridFooter { background-image: none; opacity: 1; filter: alpha(opacity=100) }
 .scGridFooterFont { color: #999999; font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; text-decoration: none }
 .scGridObjectOdd { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #fff; border-style: solid; border-width: 0 0 1px 0; color: #333333; font-family: Arial, sans-serif; font-size: 13px; text-decoration: none }
-.scGridBlockBg { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #d0d0d0; border-width: 0 0 1px 0; border-style: solid; border-top-color: #fff; border-bottom-color: #fff; border-left-color: #fff }
+.scGridBlockBg {background-color: #fff;background-image: none;opacity: 1;filter: alpha(opacity=100);border-color: #d0d0d0;border-width: 0 0 1px 0;border-style: solid;/* border-top-color: #fff; */border-bottom-color: #fff;border-left-color: #fff;}
 .scGridBlockLineBg { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #fff; border-width: 0 0 1px 0; border-style: solid }
 .scGridBlockSpaceBg { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #d0d0d0; border-width: 0 0 1px 0; border-style: solid; border-left-color: #fff; border-right-color: #fff }
 .scGridBlock { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #d0d0d0; border-width: 0 0 1px 0; border-style: solid; color: #000; font-family: Trebuchet MS, Geneva, Helvetica; font-size: 13px; font-weight: bold; padding: 5px 4px; text-decoration: none; vertical-align: middle }
@@ -70,3 +70,4 @@
 .scGridSummaryTotal {text-transform:uppercase;font-family:Trebuchet MS,Geneva,Helvetica;font-weight:bold;padding: 6px 10px;}
 .scGridSummaryLineOdd {padding:6px 10px;}
 .scGridSummaryLineEven {padding:6px 10px;}
+.scGridTabela   table tr {border-width:0px}
