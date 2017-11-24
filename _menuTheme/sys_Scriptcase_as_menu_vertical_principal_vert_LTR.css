@@ -72,12 +72,14 @@ ul#css3menu1>li:first-child>a{
 	border-top-color: #00c4c7;
 	border-bottom: 2px;
 	border-bottom-style: solid;
+	/* width: 24%; */
 	border-bottom-color: #00c4c7;
 }
 ul#css3menu1>li>a{
 	border-bottom: 2px;
 	border-bottom-style: solid;
 	border-bottom-color: #00c4c7;
+	width: 62px;
 }
 ul#css3menu1 ul li:first-child{
     border-top-width: 0px;
