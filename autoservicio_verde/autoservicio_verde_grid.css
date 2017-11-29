@@ -71,3 +71,14 @@
 .scGridSummaryLineOdd {padding:6px 10px;}
 .scGridSummaryLineEven {padding:6px 10px;}
 .scGridTabela   table tr {border-width:0px}
+* {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+*:before,
+*:after {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
