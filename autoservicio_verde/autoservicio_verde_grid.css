@@ -71,6 +71,9 @@
 .scGridSummaryLineOdd {padding:6px 10px;}
 .scGridSummaryLineEven {padding:6px 10px;}
 .scGridTabela   table tr {border-width:0px}
+#SC_fast_search_submit_top{
+	right:0px!important;
+}
 * {
   -webkit-box-sizing: content-box!important;
      -moz-box-sizing: content-box!important;
