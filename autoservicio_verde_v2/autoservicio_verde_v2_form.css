@@ -22,7 +22,8 @@
 .scFormRequiredOdd { color: #00c4c7; font-family: Trebuchet MS, Arial, sans-serif; font-size: 12px; font-weight: bold }
 .scFormRequiredOddMult { color: #d54242; font-family: Arial; font-size: 12px }
 .scFormRequiredOddColor { color: #00c4c7; font-family: Trebuchet MS, Arial, sans-serif; font-size: 12px }
-.scFormRequiredOddColorMult {color: #00c4c7;font-family: Sans Serif, Arial, Geneva;font-size: 12px;}
+.scFormRequiredOddColorMult {color: #00c4c7;font-family: Sans Serif
+Sans-Serif, Arial, Geneva;font-size: 12px;}
 .scFormObjectOdd {background-image: none;opacity: 1;filter: alpha(opacity=100);border-color: #34495E;border-style: solid;border-width: 0 0 1px 0;color: #000;font-family: Arial,sans-serif,Geneva;font-size: 13px;padding: 6px 10px;text-decoration: none;vertical-align: middle;}
 .scFormObjectOddMult {background-image: none;opacity: 1;filter: alpha(opacity=100);border-color: #34495E;border-style: solid;border-width: 0 0 1px 0;color: #000;font-size: 13px;padding: 6px 10px;text-decoration: none;vertical-align: middle;font-family: sans-serif,arial,geneva;}
 .scFormObjectFocusOdd {background-color: #fff;background-image: none;opacity: 1;filter: alpha(opacity=100);border-color: #34495E;border-style: solid;border-width: 0 0 1px 0;color: #000;font-family: sans-serif,arial,geneva;font-size: 13px;padding: 6px 10px;text-decoration: none;vertical-align: middle;}
