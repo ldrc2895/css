@@ -17,3 +17,5 @@
 .scCalendarPrintDate { font-style: normal; font-weight: bold; text-decoration: none }
 .scCalendarPrintTime { font-style: normal; text-decoration: none }
 .scCalendarPrintEvent { font-style: normal; text-decoration: none }
+body{font-family: Arial,Geneva,Sans-Serif !important;}
+
